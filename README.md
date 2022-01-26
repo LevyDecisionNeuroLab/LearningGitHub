@@ -1,2 +1,2 @@
 # LearningGitHub
-This is for us to practice GitHub
+This is a place for for us to practice GitHub :)
